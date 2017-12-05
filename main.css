@@ -1,0 +1,96 @@
+html, body {
+	margin: 0;
+	width: 100%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	position: center;
+}
+
+header{
+	background-color: #F78E69;
+	color:#FFFFFF;
+	width: 100%;
+	padding: 2em;
+}
+
+.titlepanda, .ptittle{
+	text-align: right;
+}
+
+.photo1{
+	background-image: url(../PANDAS/assets/uno.jpg);
+	background-size:100%;
+	height: 28em;
+}
+
+.about{
+	border-bottom: 1em solid #F78E69;
+	border-top: 1em solid #F78E69;
+	background: #ABE188;
+	padding: 3em;
+}
+
+.aboutMiddle{
+	text-align: center;
+	padding: 2em;
+	margin-left: 25%;
+	background-color: #F78E69;
+	color: #ffffff;
+}
+
+.subSubtitle{
+	font-size: 20px;
+	padding-bottom: 0.5em;
+}
+
+.parragraphAbout{
+	font-size: 15px;
+}
+
+.photo2{
+	background-image: url(../PANDAS/assets/dos.jpg);
+	background-size:100%;
+	height: 28em;
+}
+
+.galleryPhotos{
+	background: #ABE188;
+	padding: 2.5em;
+	border-top: 1em solid #F78E69;
+	border-bottom: 1em solid #F78E69;
+}
+
+h3{
+	text-align: center;
+	color:#FFFFFF;
+	font-size: 2em;
+}
+
+.containerPhotos{
+	text-align: center;
+}
+
+.photo{
+	border: .5em solid #FFFFFF;
+}
+
+
+.photo3{
+	background-image: url(../PANDAS/assets/tres.jpg);
+	background-size:100%;
+	height: 28em;
+	 -webkit-filter: grayscale(100%);
+	 -moz-filter: grayscale(100%);
+	 -ms-filter: grayscale(100%);
+	 -o-filter: grayscale(100%);
+}
+
+footer{
+	background-color: #F78E69;
+	color: #ffffff;
+	text-align: right;
+}
